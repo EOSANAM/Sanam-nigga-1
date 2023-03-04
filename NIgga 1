@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+ char s1[30];
+
+ printf(" ENter your name : ");
+ gets(s1);
+ printf(" kire kuttarbaccha nijer nam likhsos deki: %s",s1);
+}
